@@ -1,1 +1,17 @@
 # TailwindCSS
+## Official
+### https://tailwindcss.com/
+### https://tailwindcss.com/docs/installation/
+### https://tailwindcss.com/docs/configuration/
+### https://tailwindcss.com/docs/responsive-design/
+### https://tailwindcss.com/docs/functions-and-directives/
+### https://tailwindcss.com/docs/adding-base-styles/
+### https://tailwindcss.com/docs/utility-first/
+### https://tailwindcss.com/docs/adding-new-utilities/
+### https://github.com/tailwindcss/tailwindcss
+## Links
+### https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/
+### https://blog.logrocket.com/tailwind-css-is-it-tomorrows-bootstrap-ebe560f9d00b/
+### https://www.npmjs.com/package/tailwindcss
+### https://www.youtube.com/watch?v=j_5-LISy9Qg
+### https://tailwindcomponents.com/
