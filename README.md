@@ -9,6 +9,8 @@
 ### https://tailwindcss.com/docs/utility-first/
 ### https://tailwindcss.com/docs/adding-new-utilities/
 ### https://github.com/tailwindcss/tailwindcss
+## Tools
+### https://laravel-news.com/tailwindo
 ## Links
 ### https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/
 ### https://blog.logrocket.com/tailwind-css-is-it-tomorrows-bootstrap-ebe560f9d00b/
